@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nikhil_tony.ReactNativeAuthApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c034cbb3-5abf-4c8e-98a8-33171aa748ba"
+      }
+    },
+    "owner": "nikhil_tony"
   }
 }
